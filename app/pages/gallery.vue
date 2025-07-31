@@ -16,10 +16,16 @@
 </template>
 
 <script setup>
+import image1 from "/images/1.png";
+import image2 from "/images/2.png";
+import image3 from "/images/3.png";
+import image4 from "/images/4.png";
+
 const images = [
-  "/images/1.png",
-  "/images/2.png",
-  "/images/3.png",
+  image1,
+  image2,
+  image3,
+  image4,
   // thêm ảnh tùy ý
 ];
 </script>

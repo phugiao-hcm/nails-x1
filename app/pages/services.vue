@@ -25,36 +25,41 @@
 </template>
 
 <script setup>
+import image1 from "/images/1.png";
+import image2 from "/images/2.png";
+import image3 from "/images/3.png";
+import image4 from "/images/4.png";
+
 const services = [
   {
     title: "Sơn gel",
     description: "Bền màu, bóng đẹp, giữ màu từ 2-3 tuần.",
-    image: "images/1.png",
+    image: image1,
   },
   {
     title: "Đắp bột",
     description: "Tạo dáng móng dài, chắc chắn và nổi bật.",
-    image: "images/2.png",
+    image: image2,
   },
   {
     title: "Nail art",
     description: "Trang trí móng tay với họa tiết độc đáo và sáng tạo.",
-    image: "images/3.png",
+    image: image3,
   },
   {
     title: "Chăm sóc móng",
     description: "Cắt da, dưỡng móng, chăm sóc tổng thể.",
-    image: "images/3.png",
+    image: image3,
   },
   {
     title: "Làm móng chân",
     description: "Sạch sẽ, thư giãn, an toàn với dụng cụ riêng.",
-    image: "images/2.png",
+    image: image4,
   },
   {
     title: "Dịch vụ combo",
     description: "Tiết kiệm hơn khi làm combo tay & chân.",
-    image: "images/1.png",
+    image: image1,
   },
 ];
 </script>

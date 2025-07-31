@@ -29,32 +29,32 @@ const services = [
   {
     title: "Sơn gel",
     description: "Bền màu, bóng đẹp, giữ màu từ 2-3 tuần.",
-    image: "/images/1.png",
+    image: "images/1.png",
   },
   {
     title: "Đắp bột",
     description: "Tạo dáng móng dài, chắc chắn và nổi bật.",
-    image: "/images/2.png",
+    image: "images/2.png",
   },
   {
     title: "Nail art",
     description: "Trang trí móng tay với họa tiết độc đáo và sáng tạo.",
-    image: "/images/3.png",
+    image: "images/3.png",
   },
   {
     title: "Chăm sóc móng",
     description: "Cắt da, dưỡng móng, chăm sóc tổng thể.",
-    image: "/images/3.png",
+    image: "images/3.png",
   },
   {
     title: "Làm móng chân",
     description: "Sạch sẽ, thư giãn, an toàn với dụng cụ riêng.",
-    image: "/images/2.png",
+    image: "images/2.png",
   },
   {
     title: "Dịch vụ combo",
     description: "Tiết kiệm hơn khi làm combo tay & chân.",
-    image: "/images/1.png",
+    image: "images/1.png",
   },
 ];
 </script>

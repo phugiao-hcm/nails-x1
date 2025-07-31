@@ -12,7 +12,7 @@
         <div class="grid md:grid-cols-3 gap-8">
           <div class="bg-white shadow-lg rounded-lg p-6 text-center">
             <img
-              src="/images/1.png"
+              src="images/1.png"
               alt="Nail Design"
               class="rounded mb-4 w-full h-40 object-cover"
             />
@@ -23,7 +23,7 @@
           </div>
           <div class="bg-white shadow-lg rounded-lg p-6 text-center">
             <img
-              src="/images/2.png"
+              src="images/2.png"
               alt="Nail Design"
               class="rounded mb-4 w-full h-40 object-cover"
             />
@@ -34,7 +34,7 @@
           </div>
           <div class="bg-white shadow-lg rounded-lg p-6 text-center">
             <img
-              src="/images/3.png"
+              src="images/3.png"
               alt="Nail Design"
               class="rounded mb-4 w-full h-40 object-cover"
             />
